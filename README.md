@@ -1,4 +1,4 @@
-- 👋 oiii, I’m @gabbn0
+- 👋 oiii, I’m *@gabbn0*
 - 🌱 estudante do Alura...
 
 <!---
